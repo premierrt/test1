@@ -1,1 +1,2 @@
 1. to jest 1
+2. to jest 2 dodane  w cygwin
