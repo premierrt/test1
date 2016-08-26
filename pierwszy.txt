@@ -3,10 +3,8 @@
 
 
 
-
-
-
 to jest linia z branacha issue1 dodana w cygwin
 git checkout -b issue1 origin/issue1
 to jest checkout brancha z domu
 33. to jest issue2 branch - zmergowany recznie master ze wczesniejszymi zmianami z issue2
+4. to jest brach issue3 
