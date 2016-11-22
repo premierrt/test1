@@ -10,3 +10,6 @@ to jest checkout brancha z domu
 4. to jest brach issue3 
 
 5. a tutaj dodaje kod w masterze 22-11
+
+22-11 to jest nowy branch
+bla bla bla  
