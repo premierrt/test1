@@ -13,3 +13,9 @@ to jest checkout brancha z domu
 bla bla bla  
 
 22_11.2 to jest kolejny wpis dla cygwin
+
+22_11.3 to jest kolejna linjka
+
+22_11.4 to jest kolejna linijka
+
+22_11.5 to
