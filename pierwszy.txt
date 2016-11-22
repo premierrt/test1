@@ -11,3 +11,5 @@ to jest checkout brancha z domu
 
 22-11 to jest nowy branch
 bla bla bla  
+
+22_11.2 to jest kolejny wpis dla cygwin
