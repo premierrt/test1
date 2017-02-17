@@ -1,1 +1,3 @@
 piaty
+
+zmiany w feature do usuncia
