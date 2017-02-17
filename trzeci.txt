@@ -1,2 +1,4 @@
 trzeci
 zmiany w feature 2  do usuwania
+
+tego nie trzeba usuwac - ostatnia zmiana
